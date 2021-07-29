@@ -1,0 +1,70 @@
+/* --------------heading-------------- */
+.heading-background-color{
+    background-color: #264653;
+    color: white;
+;
+}
+.heading-login-button{
+    background: #E76F51;
+
+}
+.heading-purchase-button{
+    background: #E76F51 ;
+
+}
+
+/* ----------------Featured bike-------------------- */
+.featured-gray-bike{
+    filter: grayscale(100%) ;
+
+}
+
+/* -----------------latest news-------------- */
+.latest-news-read-btn{
+    background: #E76F51;
+
+}
+.latest-news-read-btn-border{
+    color: #E76F51 ;
+    border: 1px solid #E76F51;
+
+}
+
+
+/* -------------for differenrt color in one sentence------------ */
+.different-color-in-line{
+    color: #E76F51;
+
+}
+
+
+/* ----------------happy clients----------------- */
+.client-name{
+   color: #23A6F0;
+ 
+}
+
+/* --------------- Rating ---------------- */
+.rating-part{
+    background-color: rgb(231, 216, 216);
+    
+}
+
+/* -------------subscribe---------------------- */
+.subscribe-background{
+    
+    background-color: rgb(187, 166, 166);
+} 
+.subscribe-background input{
+    background-color: rgb(247, 222, 247);
+    border-radius: 10px;
+}
+.subscribe-background button{
+    background: rgb(33, 119, 111);
+    border-radius: 15px;
+
+}
+
+
+
+
